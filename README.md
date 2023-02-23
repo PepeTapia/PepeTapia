@@ -1,4 +1,11 @@
-### Hello, my name is Jose Tapia
+# Hello, my name is Jose Antonio Tapia but you may call me Pepe. 
+
+### My passions are in Data Science and Artificial Intelligence/Machine Learning(AI/ML). 
+
+<!--Here is a video for you to learn more about me! -->
+
+<!--![AWS Video Docuseries](insert video here)-->
+
 
 <!--
 **PepeTapia/PepeTapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello
+
