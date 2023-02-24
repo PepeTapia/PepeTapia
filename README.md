@@ -26,7 +26,6 @@
 ## Professional me
 <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG-8199.JPG" align="right" height="290" width="410"> 
 
-
 <p align="left">
 My career passions are in Data Science and Artificial Intelligence/Machine Learning(AI/ML). I love telling stories through data and discovering new insights with the power of AI/ML. I first got started in AI/ML in the Fall of 2020, when I worked under an Assistant Professor to classify images of phytoplankton. My most recent project is an AI Coach for video games that provides actionable feedback for a player to improve their skills. I turned this into a company in which I am the CEO & AI/ML Lead. In any project I am a part of, I take ownership and apply myself to the best of my ability.
 </p>
@@ -46,7 +45,7 @@ My career passions are in Data Science and Artificial Intelligence/Machine Learn
  ## Personal me
  
 <!-- <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG-8199.JPG" align="left" height="290" width="383"> -->
-<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG_7251.jpeg" align="left" height="258" width="194">
+<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG_7251.jpeg" align="left" height="335" width="252">
 
 <p align="left">
 Outside of my career field I love playing video games, playing basketball, and going to Disneyland with my girlfriend. Fun fact: I've completed over 50 Escape Rooms within Orange and Los Angeles counties. When I'm not spending time with loved ones, I love spending time helping people. I have coached competitive video games, esports, for gaming organizations Cloud9 and Tribe Gaming. My coaching branched out to traditional sports when I coached at the Escondido Police Athletic League for ages 6-18. I've done some individual coaching and tutoring throughout the last few years, and I believe it stems from my passion of helping people by using my passions as a medium. Whether it be coding or sports, I want to help people better themselves.
