@@ -24,7 +24,7 @@
 <!-- <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG-8197.JPG" align="right" height="290" width="383"> -->
 
 ## Professional me
-<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG-8199.JPG" align="right" height="223" width="295"> 
+<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG-8199.JPG" align="right" height="335" width="473"> 
 
 
 <p align="left">
