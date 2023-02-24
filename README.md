@@ -48,8 +48,10 @@ My career passions are in Data Science and Artificial Intelligence/Machine Learn
 <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG_7251.jpeg" align="left" height="335" width="252">
 
 <p align="left">
-Outside of my career field I love playing video games, playing basketball, and going to Disneyland with my girlfriend. Fun fact: I've completed over 50 Escape Rooms within Orange and Los Angeles counties. When I'm not spending time with loved ones, I love spending time helping people. I have coached competitive video games, esports, for gaming organizations Cloud9 and Tribe Gaming. My coaching branched out to traditional sports when I coached at the Escondido Police Athletic League for ages 6-18. I've done some individual coaching and tutoring throughout the last few years, and I believe it stems from my passion of helping people by using my passions as a medium. Whether it be coding or sports, I want to help people better themselves.
+Outside of my career field I love playing video games, playing basketball, and going to Disneyland with my girlfriend. When I'm not spending time with loved ones, I love spending time helping people. I have coached competitive video games, esports, for gaming organizations Cloud9 and Tribe Gaming. My coaching branched out to traditional sports when I coached at the Escondido Police Athletic League for ages 6-18. I've done some individual coaching and tutoring throughout the last few years, and I believe it stems from my passion of helping people by using my passions as a medium. Whether it be coding or sports, I want to help people better themselves.
 </p>
+
+**Fun fact: I've completed over 50 Escape Rooms within Orange and Los Angeles counties 🔍🕵️. My favorite is "The Basement" in northern LA!**
 
 💡 Soft Skills:
 <img src="https://img.shields.io/badge/Hard_Worker-%2300599C.svg?style=for-the-badge" alt="Hard Worker soft skill" width="73" height="23">
