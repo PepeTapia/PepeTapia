@@ -13,30 +13,26 @@
 
 # About me
 
+<!--Introduction to me and what I am about -->
 <p align="left">Breaking barriers, paving the way for others. As a first-generation Hispanic and the first college graduate in my family, my goal is to democratize AI/ML and help communtiies with it's potential. I am passionate about AI/ML because of it's ability to scale and solve complex problems. Donations are greatly appreciated to the EPAL Project and Meru AI, read more below!</p> 
 
+<!-- Paypal QR Code -->
 <p align="center">
 <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/paypal_QR_code.png" align="center">
 </p>
 
+<!-- Paypal donation button with a link on top of it -->
 <p align="center">
-<a align ="center" href="https://www.paypal.com/donate/?business=LUXEHMJDXH8JL&no_recurring=0&item_name=Empower+the+next+generation+of+AI+innovators%21+Invest+in+promising+student-led+AI%2FML+projects+and+help+shape+the+future.&currency_code=USD"><img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/paypal_donatebtn.gif"></a>
+<a href="https://www.paypal.com/donate/?business=LUXEHMJDXH8JL&no_recurring=0&item_name=Empower+the+next+generation+of+AI+innovators%21+Invest+in+promising+student-led+AI%2FML+projects+and+help+shape+the+future.&currency_code=USD"><img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/paypal_donatebtn.gif"></a>
 </p>
-
-<!-- <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/paypal_donatebtn.gif" align="center">!("https://www.paypal.com/donate/?business=LUXEHMJDXH8JL&no_recurring=0&item_name=Empower+the+next+generation+of+AI+innovators%21+Invest+in+promising+student-led+AI%2FML+projects+and+help+shape+the+future.&currency_code=USD") -->
-  
-
-<!-- Paypal Donation image here -->
-<!-- Paypal QR code here -->
 
 
 <!--Release date 02/27/2023-->
-<!--Here is a video for you to learn more about me! -->
-
 <!--![AWS Video Docuseries](insert video here)-->
+<!--
+<p align="center"><a align="center" href="awsaimlscholarship.com"><img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/aws_imagecard.png"></a>
 
-
-<!--<p> Thank you to Amazon Web Services for this opportunity to tell my story. I hope to inspire others that are pursuing AI/ML by emphasizing the importance of learning and building. Whether you're in high school, college, or a self-starter learning on your own - it is never too late to begin learning the power of AI/ML! Learn more about this project and how I came about this by reading my journey below!-->
+<p> Thank you to Amazon Web Services for this opportunity to tell my story. I hope to inspire others that are pursuing AI/ML by emphasizing the importance of learning and building. Whether you're in high school, college, or a self-starter learning on your own - it is never too late to begin learning the power of AI/ML! Learn more about this project and how I came about this by reading my journey below!
  
 <!-- <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG-8197.JPG" align="right" height="290" width="383"> -->
 
@@ -92,7 +88,7 @@ Outside of my career field I love playing video games, playing basketball, and g
 
 ## EPAL Project | March 2022 - Present | Donations appreciated!
 
-Github: Private , in development - 
+Github: Private , in development
 <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/AWS_IMG_raspberrypi.png" alt="Raspberry Pi img" width="360" height="255" align="right">
 
 
