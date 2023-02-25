@@ -103,11 +103,11 @@ I applied for this scholarship by completing the AWS DeepRacer Student League ra
 <img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/AWS_Scholarship_ChapterModules.png" alt="AWS DeepRacer Student League course modules" width="368" height="162" align="left"><img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/DeepRacer_RewardFunction.png" alt="AWS DeepRacer Student League car agent reinforment learning" width="276" height="194">
 
 
-<img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/inference_example.png" alt="Model Evaluation" width="186" height="279" align="right">
 
 Once you meet the eligibilty, you enter a pool of applicants that may be chosen for the Udacity "AI Programming with Python Nanodegree" course. This course covered the fundamentals within math, coding, and MLOps and tied it all together with an Image Classification system using transfer learning. You can look forward to learning about Linear Algebra, Calculus, Pandas, and NumPy for your math and coding fundamentals. From an AI/ML perspective the course does a great job at covering best data ETL pratices as well as the full model training, evaluation, and inference. The course projects concluded with two ways of using the same Image Classifier: Command Line Interface and Jupyter Notebook.
 
-<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/udacity_course_topics.png" alt="AWS Udacity AI Scholarship Course modules" width="324" height="190" align="center">
+<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/udacity_course_topics.png" alt="AWS Udacity AI Scholarship Course modules" width="324" height="190" align="center"><img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/inference_example.png" alt="Model Evaluation" width="186" height="279" align="right">
+
 
 <!-- <img src="https://img.icons8.com/color/256/neural_connections.png" alt="Brain with an emphasis on neural connections" width="50" height="50"> -->
 
