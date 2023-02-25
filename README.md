@@ -13,6 +13,12 @@
 
 # About me
 
+<p align="left">Breaking barriers, paving the way for others. As a first-generation Hispanic and the first college graduate in my family, my goal is to democratize AI/ML and help communtiies with it's potential. I am passionate about AI/ML because of it's ability to scale and solve complex problems. Donations are greatly appreciated to the EPAL Project and Meru AI, read more below!</p> 
+
+<!-- Paypal Donation image here -->
+<!-- Paypal QR code here -->
+
+
 <!--Release date 02/27/2023-->
 <!--Here is a video for you to learn more about me! -->
 
@@ -67,25 +73,35 @@ Outside of my career field I love playing video games, playing basketball, and g
 
 # Projects
 
-<p> Mixing my passions together has led to some fun projects, including: </p>
+
+<p> My goal is to bring AI/ML to communities by Mixing my passions together has led to some fun projects, including: </p>
 
 
 
-## EPAL Project
+## EPAL Project | March 2022 - Present
 
-Github: Private
+Github: Private , in development - https://www.paypal.com/donate/?business=LUXEHMJDXH8JL&no_recurring=0&item_name=Empower+the+next+generation+of+AI+innovators%21+Invest+in+promising+student-led+AI%2FML+projects+and+help+shape+the+future.&currency_code=USD
 
-AI/ML powered recording system for sports, specifically Basketball 
+
+AI/ML powered recording system for sports, specifically Basketball. I began this project because I wanted to see my brother's basketball games and have him assemble it himself as well. Using a Raspberry Pi, camera module, and internet connection, the system will be able to live stream the game to AWS and process the stream using AI/ML to create clips, keep score, and more! 
+
+<!-- Insert photo of Raspberry Pi image from my AWS Docuseries episode here -->
+
+🔧 **Tools used:** YOLOv5, AWS: Kinesis/EC2/S3, Raspberry Pi, Camera Module, Python/C++
+
+🧠 **Concepts used:** Computer Vision, Object Detection, Transfer Learning on YOLOv5, End-to-End Pipeline development for Machine Learning, Data ETL Pipeline Development
+
+
 <!-- - <img src="https://img.icons8.com/emoji/256/man-bouncing-ball.png" alt="Man dribbling a basketball" width="50" height="50"> -->
 
-## Meru AI
+## Meru AI | October 2022 - Present
 
-Github: Private
+Github: Private , in development
 
 AI Coach for Video Games, specifically League of Legends 
 <!-- <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/lol-logo-rendered-hi-res.png" alt="Leauge of Legends video game icon" width="90" height="55"> -->
 
-## WildAI
+## WildAI | September 2021 - June 2022
 
 Github: [Wild AI](https://github.com/PepeTapia/WildAI)
 
@@ -93,20 +109,27 @@ Computer Vision based tool to extract Data from a mobile video game feed called 
 <!--<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/wildrift-logo-rgb2c-gold.png" alt="Leauge of Legends video game icon" width="100" height="60">-->
 
 
-## AWS Scholarship
+## AWS Scholarship Recepient | July 2022 
 
+Read the full story here! 
 Github: [AWS Scholarship Program: Udacity AI Programming with Python Nanodegree](https://github.com/PepeTapia/UdacityAWS_Nanodegree)
 
-I applied for this scholarship by completing the AWS DeepRacer Student League race. AWS provided applicants with AI/ML learning modules that leads up to the applicant changing the code of a given template for training a "car" agent. This template is based on Reinforcement Learning and the goal is to complete a lap time under the 3:00 mark! 
+I applied for this scholarship at [awsaimlscholarship.com](http://awsaimlscholarship.com/). In order to be eligible, an applicant must complete the AWS DeepRacer Student League race and the provided AI/ML learning modules. This leads up to the applicant changing the code of a given template for training a "car" agent. The template is based on Reinforcement Learning and the goal is to complete a lap time under the 3:00 mark! 
 
 
-<img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/AWS_Scholarship_ChapterModules.png" alt="AWS DeepRacer Student League course modules" width="368" height="162" align="left"><img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/DeepRacer_RewardFunction.png" alt="AWS DeepRacer Student League car agent reinforment learning" width="276" height="194">
+
+
+<img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/AWS_Scholarship_ChapterModules.png" alt="AWS DeepRacer Student League course modules" width="368" height="162">
+
+<!-- <img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/DeepRacer_RewardFunction.png" alt="AWS DeepRacer Student League car agent reinforment learning" width="276" height="194"> -->
 
 
 
 Once you meet the eligibilty, you enter a pool of applicants that may be chosen for the Udacity "AI Programming with Python Nanodegree" course. This course covered the fundamentals within math, coding, and MLOps and tied it all together with an Image Classification system using transfer learning. You can look forward to learning about Linear Algebra, Calculus, Pandas, and NumPy for your math and coding fundamentals. From an AI/ML perspective the course does a great job at covering best data ETL pratices as well as the full model training, evaluation, and inference. The course projects concluded with two ways of using the same Image Classifier: Command Line Interface and Jupyter Notebook.
 
-<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/udacity_course_topics.png" alt="AWS Udacity AI Scholarship Course modules" width="324" height="190"><img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/inference_example.png" alt="Model Evaluation" width="186" height="279">
+<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/udacity_course_topics.png" alt="AWS Udacity AI Scholarship Course modules" width="324" height="190">
+
+<!-- <img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/inference_example.png" alt="Model Evaluation" width="186" height="279"> -->
 
 
 <!-- <img src="https://img.icons8.com/color/256/neural_connections.png" alt="Brain with an emphasis on neural connections" width="50" height="50"> -->
