@@ -81,12 +81,14 @@ AI/ML powered recording system for sports, specifically Basketball
 ## Meru AI
 
 Github: Private
+
 AI Coach for Video Games, specifically League of Legends 
 <!-- <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/lol-logo-rendered-hi-res.png" alt="Leauge of Legends video game icon" width="90" height="55"> -->
 
 ## WildAI
 
 Github: [Wild AI](https://github.com/PepeTapia/WildAI)
+
 Computer Vision based tool to extract Data from a mobile video game feed called Wild Rift. 
 <!--<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/wildrift-logo-rgb2c-gold.png" alt="Leauge of Legends video game icon" width="100" height="60">-->
 
@@ -101,7 +103,7 @@ I applied for this scholarship by completing the AWS DeepRacer Student League ra
 <img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/AWS_Scholarship_ChapterModules.png" alt="AWS DeepRacer Student League course modules" width="368" height="162" align="left"><img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/DeepRacer_RewardFunction.png" alt="AWS DeepRacer Student League car agent reinforment learning" width="276" height="194">
 
 
-<img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/inference_example.png" alt="Model Evaluation" width="279" height="419" align="right">
+<img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/inference_example.png" alt="Model Evaluation" width="186" height="279" align="right">
 
 Once you meet the eligibilty, you enter a pool of applicants that may be chosen for the Udacity "AI Programming with Python Nanodegree" course. This course covered the fundamentals within math, coding, and MLOps and tied it all together with an Image Classification system using transfer learning. You can look forward to learning about Linear Algebra, Calculus, Pandas, and NumPy for your math and coding fundamentals. From an AI/ML perspective the course does a great job at covering best data ETL pratices as well as the full model training, evaluation, and inference. The course projects concluded with two ways of using the same Image Classifier: Command Line Interface and Jupyter Notebook.
 
