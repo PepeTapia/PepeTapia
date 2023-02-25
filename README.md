@@ -15,6 +15,17 @@
 
 <p align="left">Breaking barriers, paving the way for others. As a first-generation Hispanic and the first college graduate in my family, my goal is to democratize AI/ML and help communtiies with it's potential. I am passionate about AI/ML because of it's ability to scale and solve complex problems. Donations are greatly appreciated to the EPAL Project and Meru AI, read more below!</p> 
 
+<p align="center">
+<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/paypal_QR_code.png" align="center">
+</p>
+
+<p align="center">
+<a align ="center" href="https://www.paypal.com/donate/?business=LUXEHMJDXH8JL&no_recurring=0&item_name=Empower+the+next+generation+of+AI+innovators%21+Invest+in+promising+student-led+AI%2FML+projects+and+help+shape+the+future.&currency_code=USD"><img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/paypal_donatebtn.gif"></a>
+</p>
+
+<!-- <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/paypal_donatebtn.gif" align="center">!("https://www.paypal.com/donate/?business=LUXEHMJDXH8JL&no_recurring=0&item_name=Empower+the+next+generation+of+AI+innovators%21+Invest+in+promising+student-led+AI%2FML+projects+and+help+shape+the+future.&currency_code=USD") -->
+  
+
 <!-- Paypal Donation image here -->
 <!-- Paypal QR code here -->
 
@@ -57,7 +68,7 @@ My career passions are in Data Science and Artificial Intelligence/Machine Learn
 Outside of my career field I love playing video games, playing basketball, and going to Disneyland with my girlfriend. When I'm not spending time with loved ones, I love spending time helping people. I have coached competitive video games, esports, for gaming organizations Cloud9 and Tribe Gaming. My coaching branched out to traditional sports when I coached at the Escondido Police Athletic League for ages 6-18. I've done some individual coaching and tutoring throughout the last few years, and I believe it stems from my passion of helping people by using my passions as a medium. Whether it be coding or sports, I want to help people better themselves.
 </p>
 
-**Fun fact: I've completed over 50 Escape Rooms within Orange and Los Angeles counties 🔍🕵️. My favorite is "The Basement" in northern LA!**
+**Fun fact: I've completed over 50 Escape Rooms within Orange and Los Angeles counties 🔍🕵️. <br> My favorite is "The Basement" in northern LA!**
 
 💡 Soft Skills:
 <img src="https://img.shields.io/badge/Hard_Worker-%2300599C.svg?style=for-the-badge" alt="Hard Worker soft skill" width="73" height="23">
@@ -66,6 +77,7 @@ Outside of my career field I love playing video games, playing basketball, and g
 <img src="https://img.shields.io/badge/Caring-%23E4405F.svg?style=for-the-badge" alt="Caring soft skill" width="73" height="23">
 <img src="https://img.shields.io/badge/Curious-%2300AFF0.svg?style=for-the-badge" alt="Curious soft skill" width="73" height="23">
 <img src="https://img.shields.io/badge/Team_Leader-%23FF0000.svg?style=for-the-badge" alt="Team Leader soft skill" width="73" height="23">
+
 <br>
 <br>
 <br>
@@ -78,56 +90,91 @@ Outside of my career field I love playing video games, playing basketball, and g
 
 
 
-## EPAL Project | March 2022 - Present
+## EPAL Project | March 2022 - Present | Donations appreciated!
 
-Github: Private , in development - https://www.paypal.com/donate/?business=LUXEHMJDXH8JL&no_recurring=0&item_name=Empower+the+next+generation+of+AI+innovators%21+Invest+in+promising+student-led+AI%2FML+projects+and+help+shape+the+future.&currency_code=USD
+Github: Private , in development - 
+<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/AWS_IMG_raspberrypi.png" alt="Raspberry Pi img" width="360" height="255" align="right">
 
 
-AI/ML powered recording system for sports, specifically Basketball. I began this project because I wanted to see my brother's basketball games and have him assemble it himself as well. Using a Raspberry Pi, camera module, and internet connection, the system will be able to live stream the game to AWS and process the stream using AI/ML to create clips, keep score, and more! 
+AI/ML powered recording system for sports, specifically Basketball. I began this project because I wanted to see my brother's basketball games and have him assemble it himself as well. Using a Raspberry Pi, camera module, and internet connection, the system will be able to live stream the game to AWS and process the stream using AI/ML to create clips, keep score, and more!
 
 <!-- Insert photo of Raspberry Pi image from my AWS Docuseries episode here -->
 
-🔧 **Tools used:** YOLOv5, AWS: Kinesis/EC2/S3, Raspberry Pi, Camera Module, Python/C++
+🔧 **Tools used:** YOLOv5, Pandas, NumPy, Matplotlib; AWS: Kinesis/EC2/S3, Raspberry Pi, Camera Module, Python/C++
 
 🧠 **Concepts used:** Computer Vision, Object Detection, Transfer Learning on YOLOv5, End-to-End Pipeline development for Machine Learning, Data ETL Pipeline Development
 
 
 <!-- - <img src="https://img.icons8.com/emoji/256/man-bouncing-ball.png" alt="Man dribbling a basketball" width="50" height="50"> -->
 
-## Meru AI | October 2022 - Present
+## Meru AI | October 2022 - Present | Donations appreciated!
 
-Github: Private , in development
 
-AI Coach for Video Games, specifically League of Legends 
-<!-- <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/lol-logo-rendered-hi-res.png" alt="Leauge of Legends video game icon" width="90" height="55"> -->
+Github: Private , in development 
+
+<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/lol-logo-rendered-hi-res.png" alt="Leauge of Legends video game icon" width="504" height="308" align="right"> 
+
+My passions in gaming and coaching inspired me to pursue this project. Our pilot game, League of Legends, is a Multiplayer Online Battle Arena that contains an intimidating amount of information that a user needs to absorb in order to improve or even have fun playing the game. In short, I want to use AI/ML to answer questions that a user may have in regards to their own gameplay, helping them understand and improve on a personal level by providing them with actionable feedback - like a coach would do! 
+
+🔧 **Tools used:** Python, PyTorch, Keras, TensorFlow, NumPy, Matplotlib, Pandas, Neo4j Graph Database, SQL
+
+🧠 **Concepts used:** Linear Regression, Multi-Class classification, Random Forests, CNN/RNN, GraphNN, Graph Database Relational Models, Data API Ingestion - ETL practices, Model Training/Testing/Evaluation
+
+
 
 ## WildAI | September 2021 - June 2022
 
 Github: [Wild AI](https://github.com/PepeTapia/WildAI)
 
-Computer Vision based tool to extract Data from a mobile video game feed called Wild Rift. 
-<!--<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/wildrift-logo-rgb2c-gold.png" alt="Leauge of Legends video game icon" width="100" height="60">-->
+<img src="https://github.com/PepeTapia/WildAI/blob/main/images/colorscale_img.png" alt="Wild Rift video stream example" width="383" height="217" align="right">
 
+
+I created this tool to help my team at the time, Cloud9 Wild Rift, so we can use fundamental data analysis similar to the parent game League of Legends. Riot Games, the parent company for both aforementioned games, does not have a public API so I created a Data Pipeline that extracts, transforms, and loads a Video Stream into a dataset. This enabled the potential for Data Science practices to be performed on the output datasets. The result was a number of datasets that helped our team discover our strengths and weaknesses, therefore making Data Informed Decisions.
+
+<br>
+<br>
+<br>
+
+<p align="center">
+<img src="https://github.com/PepeTapia/WildAI/blob/main/images/wardDetection.gif">
+</p>
+
+<p align="center">
+<img src="https://github.com/PepeTapia/WildAI/blob/main/images/processing_output.png">
+</p>
+
+🔧 **Tools used:** YOLOv5, OpenCV, NumPy, Matplotlib, Pandas, SQL
+
+🧠 **Concepts used:** Image Processing methods, Dataset organization and validation, Database creation, Data pipelin automation, Quantitative analysis
 
 ## AWS Scholarship Recepient | July 2022 
 
 Read the full story here! 
 Github: [AWS Scholarship Program: Udacity AI Programming with Python Nanodegree](https://github.com/PepeTapia/UdacityAWS_Nanodegree)
 
+<img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/AWS_Scholarship_ChapterModules.png" alt="AWS DeepRacer Student League course modules" width="368" height="162" align="right">
+
+
 I applied for this scholarship at [awsaimlscholarship.com](http://awsaimlscholarship.com/). In order to be eligible, an applicant must complete the AWS DeepRacer Student League race and the provided AI/ML learning modules. This leads up to the applicant changing the code of a given template for training a "car" agent. The template is based on Reinforcement Learning and the goal is to complete a lap time under the 3:00 mark! 
 
+<br>
+<br>
+
+<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/udacity_course_topics.png" alt="AWS Udacity AI Scholarship Course modules" width="356" height="209" align="right">
+
+Once you meet the eligibilty, you enter a pool of applicants that may be chosen for the Udacity "AI Programming with Python Nanodegree" course. This course covered the fundamentals within math, coding, and MLOps and tied it all together with an Image Classification system using transfer learning. You can look forward to learning about Linear Algebra, Calculus, Pandas, and NumPy for your math and coding fundamentals. From an AI/ML perspective the course does a great job at covering best data ETL pratices as well as the full model training, evaluation, and inference. The course projects concluded with two ways of using the same Image Classifier: Command Line Interface and Jupyter Notebook.
 
 
-
-<img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/AWS_Scholarship_ChapterModules.png" alt="AWS DeepRacer Student League course modules" width="368" height="162">
 
 <!-- <img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/DeepRacer_RewardFunction.png" alt="AWS DeepRacer Student League car agent reinforment learning" width="276" height="194"> -->
 
 
 
-Once you meet the eligibilty, you enter a pool of applicants that may be chosen for the Udacity "AI Programming with Python Nanodegree" course. This course covered the fundamentals within math, coding, and MLOps and tied it all together with an Image Classification system using transfer learning. You can look forward to learning about Linear Algebra, Calculus, Pandas, and NumPy for your math and coding fundamentals. From an AI/ML perspective the course does a great job at covering best data ETL pratices as well as the full model training, evaluation, and inference. The course projects concluded with two ways of using the same Image Classifier: Command Line Interface and Jupyter Notebook.
 
-<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/udacity_course_topics.png" alt="AWS Udacity AI Scholarship Course modules" width="324" height="190">
+
+
+
+
 
 <!-- <img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/inference_example.png" alt="Model Evaluation" width="186" height="279"> -->
 
