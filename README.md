@@ -15,7 +15,7 @@
 # About me
 
 <!--Introduction to me and what I am about -->
-<p align="left">Breaking barriers, paving the way for others. As a first-generation Hispanic and the first college graduate in my family, my goal is to democratize AI/ML and help communtiies with it's potential. I am passionate about AI/ML because of it's ability to scale and solve complex problems. Donations are greatly appreciated to the EPAL Project and Meru AI, read more below!</p> 
+<p align="left">Breaking barriers, paving the way for others. As a first-generation Hispanic and the first college graduate in my family, my goal is to democratize AI/ML and help communities with it's potential. I am passionate about AI/ML because of it's ability to scale and solve complex problems. Donations are greatly appreciated to the EPAL Project and Meru AI, read more below!</p> 
 
 
 <!--Release date 02/27/2023-->
@@ -88,9 +88,9 @@ Outside of my career field I love playing video games, playing basketball, and g
 # Projects
 
 
-<p> My goal is to bring AI/ML to communities by Mixing my passions together has led to some fun projects, including: </p>
+<p> Mixing my passions together has led to some fun projects, including: </p>
 
-
+---
 
 ## EPAL Project
 
