@@ -7,8 +7,9 @@
 - **[Projects](#projects)**
   - [EPAL Project](#epal-project)
   - [Meru AI](#meru-ai)
-  - [AWS Scholarship](#aws-scholarship)
   - [WildAI](#wildai)
+  - [AWS Scholarship](#aws-scholarship)
+
 
 
 # About me
@@ -16,7 +17,13 @@
 <!--Introduction to me and what I am about -->
 <p align="left">Breaking barriers, paving the way for others. As a first-generation Hispanic and the first college graduate in my family, my goal is to democratize AI/ML and help communtiies with it's potential. I am passionate about AI/ML because of it's ability to scale and solve complex problems. Donations are greatly appreciated to the EPAL Project and Meru AI, read more below!</p> 
 
-<!-- Paypal QR Code -->
+
+<!--Release date 02/27/2023-->
+<!--![AWS Video Docuseries](insert video here)-->
+<!-- 
+<p align="center"><a align="center" href="awsaimlscholarship.com"><img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/aws_imagecard.png"></a>
+ -->
+ <!-- Paypal QR Code -->
 <p align="center">
 <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/paypal_QR_code.png" align="center">
 </p>
@@ -25,14 +32,13 @@
 <p align="center">
 <a href="https://www.paypal.com/donate/?business=LUXEHMJDXH8JL&no_recurring=0&item_name=Empower+the+next+generation+of+AI+innovators%21+Invest+in+promising+student-led+AI%2FML+projects+and+help+shape+the+future.&currency_code=USD"><img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/paypal_donatebtn.gif"></a>
 </p>
-
-
-<!--Release date 02/27/2023-->
-<!--![AWS Video Docuseries](insert video here)-->
-<!--
-<p align="center"><a align="center" href="awsaimlscholarship.com"><img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/aws_imagecard.png"></a>
-
+ 
+  
+ 
 <p> Thank you to Amazon Web Services for this opportunity to tell my story. I hope to inspire others that are pursuing AI/ML by emphasizing the importance of learning and building. Whether you're in high school, college, or a self-starter learning on your own - it is never too late to begin learning the power of AI/ML! Learn more about this project and how I came about this by reading my journey below!
+  
+  
+
  
 <!-- <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG-8197.JPG" align="right" height="290" width="383"> -->
 
@@ -86,7 +92,9 @@ Outside of my career field I love playing video games, playing basketball, and g
 
 
 
-## EPAL Project | March 2022 - Present | Donations appreciated!
+## EPAL Project
+
+### March 2022 - Present | Donations appreciated!
 
 Github: Private , in development
 <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/AWS_IMG_raspberrypi.png" alt="Raspberry Pi img" width="360" height="255" align="right">
@@ -100,10 +108,13 @@ AI/ML powered recording system for sports, specifically Basketball. I began this
 
 🧠 **Concepts used:** Computer Vision, Object Detection, Transfer Learning on YOLOv5, End-to-End Pipeline development for Machine Learning, Data ETL Pipeline Development
 
+---
 
 <!-- - <img src="https://img.icons8.com/emoji/256/man-bouncing-ball.png" alt="Man dribbling a basketball" width="50" height="50"> -->
 
-## Meru AI | October 2022 - Present | Donations appreciated!
+## Meru AI
+
+### October 2022 - Present | Donations appreciated!
 
 
 Github: Private , in development 
@@ -116,9 +127,11 @@ My passions in gaming and coaching inspired me to pursue this project. Our pilot
 
 🧠 **Concepts used:** Linear Regression, Multi-Class classification, Random Forests, CNN/RNN, GraphNN, Graph Database Relational Models, Data API Ingestion - ETL practices, Model Training/Testing/Evaluation
 
+---
 
+## WildAI
 
-## WildAI | September 2021 - June 2022
+### September 2021 - June 2022
 
 Github: [Wild AI](https://github.com/PepeTapia/WildAI)
 
@@ -143,7 +156,12 @@ I created this tool to help my team at the time, Cloud9 Wild Rift, so we can use
 
 🧠 **Concepts used:** Image Processing methods, Dataset organization and validation, Database creation, Data pipelin automation, Quantitative analysis
 
-## AWS Scholarship Recepient | July 2022 
+---
+
+
+## AWS Scholarship 
+
+### Scholarship Recepient | July 2022 
 
 Read the full story here! 
 Github: [AWS Scholarship Program: Udacity AI Programming with Python Nanodegree](https://github.com/PepeTapia/UdacityAWS_Nanodegree)
