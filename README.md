@@ -17,7 +17,7 @@
 <!--Introduction to me and what I am about -->
 <p align="left">I am a first-generation Hispanic and the first college graduate in my family. My goal is to break barriers and pave the way for others. 
 
-I want to democratize Artificial Intelligence(AI) and Machine Learning(ML) to help communities with its potential to improve quality of life and strengthen bonds between people. I am passionate about AI/ML because of its ability to scale and solve complex problems. Donations are greatly appreciated to the EPAL Project and Meru AI!</p> 
+I want to democratize Artificial Intelligence(AI) and Machine Learning(ML) to help communities using the potential of AI/ML to improve quality of life and strengthen bonds between people. I am passionate about AI/ML because of its ability to scale and solve complex problems. Donations are greatly appreciated to the EPAL Project and Meru AI!</p> 
 
 
 <!--Release date 02/27/2023-->
@@ -37,8 +37,7 @@ I want to democratize Artificial Intelligence(AI) and Machine Learning(ML) to he
  
   
  
-<p> Amazon Web Services has given me this opportunity to tell my story and inspire others pursuing AI/ML by emphasizing the importance of learening and building. Whether you're in high school, college, or a self-starter learning on your own -- it is never too late to begin learning the power of AI/ML!
-  
+<p> Amazon Web Services has given me this opportunity to tell my story and inspire others pursuing AI/ML by emphasizing the importance of learning and building. Whether you're in high school, college, or a self-starter learning on your own -- it is never too late to begin learning the power of AI/ML! </p>
   
 
  
@@ -48,7 +47,7 @@ I want to democratize Artificial Intelligence(AI) and Machine Learning(ML) to he
 <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG-8199.JPG" align="right" height="290" width="410"> 
 
 <p align="left">
-My passion is in heling others improve their quality of life and creating stronger bonds between people. I found that I can achieve this with the power of AI/ML. I first got started in AI/ML in the Fall of 2020 when I worked under an Assistant Professor to classify images of phytoplankton. This opened my eyes to the many stregths that this field has. My most recent project is an AI Coach for video games that provides actionable feedback for a player to improve their skills. By using AI/ML, I am able to tell stories through data and discover new insights into the gameplay of individuals. I have turned my AI Coach project into a comapny in which I am the CEO & AI/ML Lead. For any project that I am a part of, I take ownership and apply myself to the best of my ability. 
+My passion is in heling others improve their quality of life and creating stronger bonds between people. I found that I can achieve this with the power of AI/ML. I first got started in AI/ML in the Fall of 2020 when I worked under an Assistant Professor to classify images of phytoplankton. This opened my eyes to the many strengths that this field has. My most recent project is an AI Coach for video games that provides actionable feedback for a player to improve their skills. By using AI/ML, I am able to tell stories through data and discover new insights into the gameplay of individuals. I have turned my AI Coach project into a company in which I am the CEO & AI/ML Lead. For any project that I am a part of, I take ownership and apply myself to the best of my ability. 
 </p>
 
  🖥️ **AI/ML:** <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt=" Matplotlib Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow Machine Learning" width="73" height="23">
@@ -124,7 +123,7 @@ Github: Private , in development
 
 <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/lol-logo-rendered-hi-res.png" alt="Leauge of Legends video game icon" width="504" height="308" align="right"> 
 
-Meru AI is initiated from my passions in gaming and coaching. Our pilot game, League of Legends, is a Multiplayer Online Battle Area (MOBA) that contains an immense amount of information that a user needs to absorb in order to understand the gameplay. This creates a steep learning curve, and can take the fun out of the game. In this project, I am using AI/ML to help players understand and improve the skills on a personal level by providing them with actionable feedback -- like a coach would do.
+Meru AI is initiated from my passions in gaming and coaching. Our pilot game, League of Legends, is a Multiplayer Online Battle Area (MOBA) that contains an immense amount of information that a user needs to absorb in order to understand the gameplay. This creates a steep learning curve, and can take the fun out of the game. In this project, I am using AI/ML to help players understand and improve their skills on a personal level by providing them with actionable feedback -- like a coach would do.
 
 🔧 **Tools used:** Python, PyTorch, Keras, TensorFlow, NumPy, Matplotlib, Pandas, Neo4j Graph Database, SQL
 
