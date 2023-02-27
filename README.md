@@ -61,7 +61,7 @@ My passion is in helping others improve their quality of life and creating stron
  ## Personal me
  
 <!-- <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG-8199.JPG" align="left" height="290" width="383"> -->
-<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/EscapeRoom_KhoaPepeRisa.jpg" align="left" height="321" width="428">
+<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/EscapeRoom_KhoaPepeRisa.jpg" align="left" height="275" width="367">
 
 <p align="left">
   
