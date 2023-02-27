@@ -64,7 +64,7 @@ My career passions are in Data Science and Artificial Intelligence/Machine Learn
  ## Personal me
  
 <!-- <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG-8199.JPG" align="left" height="290" width="383"> -->
-<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG_7251.jpeg" align="left" height="335" width="252">
+<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG_7251.jpeg" align="left" height="305" width="229">
 
 <p align="left">
   
