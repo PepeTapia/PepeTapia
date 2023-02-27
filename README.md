@@ -15,7 +15,7 @@
 # About me
 
 <!--Introduction to me and what I am about -->
-<p align="left">Breaking barriers, paving the way for others. As a first-generation Hispanic and the first college graduate in my family, my goal is to democratize AI/ML and help communities with it's potential. I am passionate about AI/ML because of it's ability to scale and solve complex problems. Donations are greatly appreciated to the EPAL Project and Meru AI, read more below!</p> 
+<p align="left">Breaking barriers, paving the way for others. As a first-generation Hispanic and the first college graduate in my family, my goal is to democratize AI/ML and help communities with its potential. I am passionate about AI/ML because of it's ability to scale and solve complex problems. Donations are greatly appreciated to the EPAL Project and Meru AI, read more below!</p> 
 
 
 <!--Release date 02/27/2023-->
@@ -46,7 +46,7 @@
 <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG-8199.JPG" align="right" height="290" width="410"> 
 
 <p align="left">
-My career passions are in Data Science and Artificial Intelligence/Machine Learning(AI/ML). I love telling stories through data and discovering new insights with the power of AI/ML. I first got started in AI/ML in the Fall of 2020, when I worked under an Assistant Professor to classify images of phytoplankton. My most recent project is an AI Coach for video games that provides actionable feedback for a player to improve their skills. I turned the AI Coach project into a company in which I am the CEO & AI/ML Lead. In any project I am a part of, I take ownership and apply myself to the best of my ability.
+My career passions are in Data Science and Artificial Intelligence/Machine Learning(AI/ML). I love telling stories through data and discovering new insights with the power of AI/ML. I first got started in AI/ML in the Fall of 2020, when I worked under an Assistant Professor to classify images of phytoplankton. My most recent project is an AI Coach for video games that provides actionable feedback for a player to improve their skills. I turned the AI Coach project into a company in which I am the CEO & AI/ML Lead. For any project that I am a part of, I take ownership and apply myself to the best of my ability.
 </p>
 
  🖥️ **AI/ML:** <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt=" Matplotlib Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow Machine Learning" width="73" height="23">
@@ -67,7 +67,9 @@ My career passions are in Data Science and Artificial Intelligence/Machine Learn
 <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG_7251.jpeg" align="left" height="335" width="252">
 
 <p align="left">
-Outside of my career field I love playing video games, playing basketball, and going to Disneyland with my girlfriend. When I'm not spending time with loved ones, I love spending time helping people. I have coached competitive video games, esports, for gaming organizations Cloud9 and Tribe Gaming. My coaching branched out to traditional sports when I coached at the Escondido Police Athletic League for ages 6-18. I've done some individual coaching and tutoring throughout the last few years, and I believe it stems from my passion of helping people by using my passions as a medium. Whether it be coding or sports, I want to help people better themselves.
+  
+On my off time, I love playing competitive games with my friends and going to Disneyland with my girlfriend. When I am not spending time with people that are close to me, I love thinking of ways that I can help people. My love for helping people initially started when I coached for esports teams such as Cloud9 and Tribe Gaming. I have since then extended my coaching skills to coaching at the Escondido Police Athletic League for ages 6-18. I currently coach and tutor individuals while working on my projects. I believe my passions can help others pursue their passions, and I want to do anything I can to help better themselves and their quality of life.
+  
 </p>
 
 **Fun fact: I've completed over 50 Escape Rooms within Orange and Los Angeles counties 🔍🕵️. <br> My favorite is "The Basement" in northern LA!**
@@ -121,7 +123,7 @@ Github: Private , in development
 
 <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/lol-logo-rendered-hi-res.png" alt="Leauge of Legends video game icon" width="504" height="308" align="right"> 
 
-My passions in gaming and coaching inspired me to pursue this project. Our pilot game, League of Legends, is a Multiplayer Online Battle Arena that contains an intimidating amount of information that a user needs to absorb in order to improve or even have fun playing the game. In short, I want to use AI/ML to answer questions that a user may have in regards to their own gameplay, helping them understand and improve on a personal level by providing them with actionable feedback - like a coach would do! 
+My passions in gaming and coaching inspired me to pursue this project. Our pilot game, League of Legends, is a Multiplayer Online Battle Arena that contains an intimidating amount of information that a user needs to absorb in order to improve or even have fun playing the game. In short, I want to use AI/ML to answer questions that a user may have in regards to their own gameplay, helping them understand and improve on a personal level by providing them with actionable feedback -- like a coach would do! 
 
 🔧 **Tools used:** Python, PyTorch, Keras, TensorFlow, NumPy, Matplotlib, Pandas, Neo4j Graph Database, SQL
 
