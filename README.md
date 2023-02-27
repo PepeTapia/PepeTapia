@@ -17,7 +17,7 @@
 <!--Introduction to me and what I am about -->
 <p align="left">I am a first-generation Hispanic and the first college graduate in my family. My goal is to break barriers and pave the way for others. 
 
-I want to democratize Artificial Intelligence(AI) and Machine Learning(ML) to help communities using the potential of AI/ML to improve quality of life and strengthen bonds between people. I am passionate about AI/ML because of its ability to scale and solve complex problems. Donations are greatly appreciated to the EPAL Project and Meru AI!</p> 
+I want to democratize Artificial Intelligence(AI) and Machine Learning(ML) to help communities. By using AI/ML I can create programs that will improve the quality of life for a community and strengthen bonds between people. I am passionate about AI/ML because of its ability to scale and solve complex problems. Donations are greatly appreciated to the EPAL Project and Meru AI!</p> 
 
 
 <!--Release date 02/27/2023-->
@@ -47,7 +47,7 @@ I want to democratize Artificial Intelligence(AI) and Machine Learning(ML) to he
 <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG-8199.JPG" align="right" height="290" width="410"> 
 
 <p align="left">
-My passion is in heling others improve their quality of life and creating stronger bonds between people. I found that I can achieve this with the power of AI/ML. I first got started in AI/ML in the Fall of 2020 when I worked under an Assistant Professor to classify images of phytoplankton. This opened my eyes to the many strengths that this field has. My most recent project is an AI Coach for video games that provides actionable feedback for a player to improve their skills. By using AI/ML, I am able to tell stories through data and discover new insights into the gameplay of individuals. I have turned my AI Coach project into a company in which I am the CEO & AI/ML Lead. For any project that I am a part of, I take ownership and apply myself to the best of my ability. 
+My passion is in helping others improve their quality of life and creating stronger bonds between people. I found that I can achieve this with the power of AI/ML. I first got started in AI/ML in the Fall of 2020 when I worked under an Assistant Professor to classify images of phytoplankton. This opened my eyes to the many strengths that this field has. My most recent project is an AI Coach for video games that provides actionable feedback for a player to improve their skills. By using AI/ML, I am able to tell stories through data and discover new insights into the gameplay of individuals. I have turned my AI Coach project into a company in which I am the CEO & AI/ML Lead. For any project that I am a part of, I take ownership and apply myself to the best of my ability. 
 </p>
 
  🖥️ **AI/ML:** <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt=" Matplotlib Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow Machine Learning" width="73" height="23">
@@ -140,7 +140,7 @@ Github: [Wild AI](https://github.com/PepeTapia/WildAI)
 <img src="https://github.com/PepeTapia/WildAI/blob/main/images/colorscale_img.png" alt="Wild Rift video stream example" width="383" height="217" align="right">
 
 
-WildAI is a tool created to help esports teams use fundamental data analysis -- similar to the parent game League of Legends. Riot Games, the parent company for bother aforementioned games, does not have a public API. Therefore, I created a Data Pipeline that extracts, transforms, and loads a Video Stream into a dataset. This enabled the potential for Data Science practices to be performed on the output datasets. The result was a number of datasets that helped the esports team I coached (Cloud9 Wild Rift) discover our strengths and weaknesses.
+WildAI is a tool created to help esports teams use fundamental data analysis in Wild Rift -- similar to the parent game League of Legends. Riot Games, the parent company for the aforementioned games, does not have a public API. Therefore, I created a Data Pipeline that extracts, transforms, and loads a Video Stream into a dataset. This enabled the potential for Data Science practices to be performed on the output datasets. The result was a number of datasets that helped the esports team I coached (Cloud9 Wild Rift) discover our strengths and weaknesses.
 
 <br>
 <br>
@@ -178,39 +178,14 @@ I applied for this scholarship at [awsaimlscholarship.com](http://awsaimlscholar
 
 <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/udacity_course_topics.png" alt="AWS Udacity AI Scholarship Course modules" width="356" height="209" align="right">
 
-Once you meet the eligibilty, you enter a pool of applicants that may be chosen for the Udacity "AI Programming with Python Nanodegree" course. This course covered the fundamentals within math, coding, and MLOps and tied it all together with an Image Classification system using transfer learning. You can look forward to learning about Linear Algebra, Calculus, Pandas, and NumPy for your math and coding fundamentals. From an AI/ML perspective the course does a great job at covering best data ETL pratices as well as the full model training, evaluation, and inference. The course projects concluded with two ways of using the same Image Classifier: Command Line Interface and Jupyter Notebook.
+Once you meet the eligibility, you enter a pool of applicants that may be chosen for the Udacity "AI Programming with Python Nanodegree" course. This course covered the fundamentals within math, coding, and MLOps and tied it all together with an Image Classification system using transfer learning. You can look forward to learning about Linear Algebra, Calculus, Pandas, and NumPy for your math and coding fundamentals. From an AI/ML perspective the course does a great job at covering best data ETL practices as well as the full model training, evaluation, and inference. The course projects concluded with two ways of using the same Image Classifier: Command Line Interface and Jupyter Notebook.
 
 
 
 <!-- <img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/DeepRacer_RewardFunction.png" alt="AWS DeepRacer Student League car agent reinforment learning" width="276" height="194"> -->
 
-
-
-
-
-
-
-
-
 <!-- <img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/inference_example.png" alt="Model Evaluation" width="186" height="279"> -->
 
 
 <!-- <img src="https://img.icons8.com/color/256/neural_connections.png" alt="Brain with an emphasis on neural connections" width="50" height="50"> -->
-
-
-
-<!--
-**PepeTapia/PepeTapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
