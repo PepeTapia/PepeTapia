@@ -65,17 +65,17 @@ My passion is in helping others improve their quality of life and creating stron
  ## Personal me
  
 <!-- <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG-8199.JPG" align="left" height="290" width="383"> -->
-<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG_7251.jpeg" align="left" height="305" width="229">
+<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/EscapeRoom_KhoaPepeRisa.jpg" align="left" height="321" width="428">
 
 <p align="left">
   
 On my off time, I love playing competitive games with my friends and going to Disneyland with my girlfriend. When I am not spending time with people that are close to me, I love thinking of ways that I can help people. My love for helping people initially started when I coached for esports teams such as Cloud9 and Tribe Gaming. I have since then extended my coaching skills to coaching at the Escondido Police Athletic League for ages 6-18. I currently coach and tutor individuals while working on my projects. I believe my passions can help others pursue their passions, and I want to do anything I can to help better themselves and their quality of life.
-  
+ 
+Fun fact: I've completed over 50 Escape Rooms within Orange and Los Angeles counties 🔍🕵️. <br> My favorite is "The Basement" in northern LA!
 </p>
 
-**Fun fact: I've completed over 50 Escape Rooms within Orange and Los Angeles counties 🔍🕵️. <br> My favorite is "The Basement" in northern LA!**
 
-💡 Soft Skills:
+💡 Soft Skills
 <img src="https://img.shields.io/badge/Hard_Worker-%2300599C.svg?style=for-the-badge" alt="Hard Worker soft skill" width="73" height="23">
 <img src="https://img.shields.io/badge/Problem_Solver-%23EE4C2C.svg?style=for-the-badge" alt="Problem Solver soft skill" width="73" height="23">
 <img src="https://img.shields.io/badge/Teamwork-%32197711.svg?style=for-the-badge" alt="Teamwork soft skill" width="73" height="23">
@@ -83,10 +83,6 @@ On my off time, I love playing competitive games with my friends and going to Di
 <img src="https://img.shields.io/badge/Curious-%2300AFF0.svg?style=for-the-badge" alt="Curious soft skill" width="73" height="23">
 <img src="https://img.shields.io/badge/Team_Leader-%23FF0000.svg?style=for-the-badge" alt="Team Leader soft skill" width="73" height="23">
 
-<br>
-<br>
-<br>
-<br>
 
 # Projects
 
