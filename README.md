@@ -101,8 +101,7 @@ On my off time, I love playing competitive games with my friends and going to Di
 Github: Private , in development
 <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/AWS_IMG_raspberrypi.png" alt="Raspberry Pi img" width="360" height="255" align="right">
 
-
-AI/ML powered recording system for sports, specifically Basketball. I began this project because I wanted to see my brother's basketball games and have him assemble it himself as well. Using a Raspberry Pi, camera module, and internet connection, the system will be able to live stream the game to AWS and process the stream using AI/ML to create clips, keep score, and more!
+The EPAL Project is an AI/ML powered recording system for sports, specifically basketball. The inspiration for this project came from wanting to see my brother's basketball games, and realzing that these special moments would be valuable to have available for other families as well. Using a Raspberry Pi, camera module, and an internet connection, the system is able to live stream the game, leveraging Amazon Web Services, and process the stream using aI/ML to create clips, keep score, and more!
 
 <!-- Insert photo of Raspberry Pi image from my AWS Docuseries episode here -->
 
@@ -123,7 +122,7 @@ Github: Private , in development
 
 <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/lol-logo-rendered-hi-res.png" alt="Leauge of Legends video game icon" width="504" height="308" align="right"> 
 
-My passions in gaming and coaching inspired me to pursue this project. Our pilot game, League of Legends, is a Multiplayer Online Battle Arena that contains an intimidating amount of information that a user needs to absorb in order to improve or even have fun playing the game. In short, I want to use AI/ML to answer questions that a user may have in regards to their own gameplay, helping them understand and improve on a personal level by providing them with actionable feedback -- like a coach would do! 
+Meru AI is initiated from my passions in gaming and coaching. Our pilot game, League of Legends, is a Multiplayer Online Battle Area(MOBA) that contains an immense amount of information that a user needs to absorb in order to understand the gameplay. This creates a steep learning curve, and can take the fun out of the game. In this project, I am using AI/ML to help players understand and improve the skills on a personal level by providing them with actionable feedback -- like a coach would do.
 
 🔧 **Tools used:** Python, PyTorch, Keras, TensorFlow, NumPy, Matplotlib, Pandas, Neo4j Graph Database, SQL
 
@@ -140,7 +139,7 @@ Github: [Wild AI](https://github.com/PepeTapia/WildAI)
 <img src="https://github.com/PepeTapia/WildAI/blob/main/images/colorscale_img.png" alt="Wild Rift video stream example" width="383" height="217" align="right">
 
 
-I created this tool to help my team at the time, Cloud9 Wild Rift, so we can use fundamental data analysis similar to the parent game League of Legends. Riot Games, the parent company for both aforementioned games, does not have a public API so I created a Data Pipeline that extracts, transforms, and loads a Video Stream into a dataset. This enabled the potential for Data Science practices to be performed on the output datasets. The result was a number of datasets that helped our team discover our strengths and weaknesses, therefore making Data Informed Decisions.
+WildAI is a tool created to help esports teams use fundamental data analysis -- similar to the parent game League of Legends. Riot Games, the parent company for bother aforementioned games, does not have a public API. Therefore, I created a Data Pipeline that extracts, transforms, and loads a Video Stream into a dataset. This enabled the potential for Data Science practices to be performed on the output datasets. The result was a number of datasets that helped the esports team I coached(Cloud9 Wild Rift) discover our strengths and weaknesses.
 
 <br>
 <br>
