@@ -22,9 +22,9 @@ I want to democratize Artificial Intelligence(AI) and Machine Learning(ML) to he
 
 <!--Release date 02/27/2023-->
 <!--![AWS Video Docuseries](insert video here)-->
-<p align="center">
+<h1 align="center">
 Click the photo below to watch Future Self – E1 Meet José “Pepe” Tapia | Amazon Web Services
-</p>
+</h1>
 
 
 <p align="center"><a align="center" href="https://www.youtube.com/watch?v=nhda21qxl3A"><img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/AWS_PhotoCard.png" height="355" width="515"></a>
