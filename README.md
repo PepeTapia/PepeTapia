@@ -31,17 +31,7 @@ Click the photo below to watch Future Self – E1 Meet José “Pepe” Tapia | 
 
 
   
- <!-- Paypal QR Code -->
-<p align="center">
-<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/paypal_QR_code.png" align="center">
-</p>
 
-<!-- Paypal donation button with a link on top of it -->
-<p align="center">
-<a href="https://www.paypal.com/donate/?business=LUXEHMJDXH8JL&no_recurring=0&item_name=Empower+the+next+generation+of+AI+innovators%21+Invest+in+promising+student-led+AI%2FML+projects+and+help+shape+the+future.&currency_code=USD"><img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/paypal_donatebtn.gif"></a>
-</p>
- 
-  
  
 <p> Amazon Web Services has given me this opportunity to tell my story and inspire others pursuing AI/ML by emphasizing the importance of learning and building. Whether you're in high school, college, or a self-starter learning on your own -- it is never too late to begin learning the power of AI/ML! </p>
   
