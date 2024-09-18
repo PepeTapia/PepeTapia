@@ -1,174 +1,192 @@
-# Hello, my name is Jose Antonio Tapia but you may call me Pepe. 
+# José Antonio 'Pepe' Tapia
+
+## AI/ML Engineer | Full Stack Developer | Founder of Meru AI LLC
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=nhda21qxl3A">
+    <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/AWS_PhotoCard.png" alt="AWS Video Docuseries" width="400">
+  </a>
+  <br>
+  <em>Click the image to watch my story on AWS Future Self – E1</em>
+</div>
+
+## About Me
+
+I'm a passionate AI/ML engineer and full stack developer on a mission to leverage cutting-edge technology to solve complex problems and improve lives. As a first-generation Hispanic and college graduate, I aim to break barriers and pave the way for others in tech.
+
+- 🚀 Founder of Meru AI LLC, specializing in AI-driven solutions
+- 🎓 B.S. in Computer Science from CSU Fullerton
+- 💡 Experienced in developing AI/ML solutions for various industries
+- 🏆 AWS Scholarship Recipient
+
+## 🛠️ Tech Toolbox
+
+<table>
+  <tr>
+    <td align="center"><b>🧠 AI/ML</b></td>
+    <td align="center"><b>🌐 Web Dev</b></td>
+    <td align="center"><b>🗄️ Data</b></td>
+    <td align="center"><b>☁️ Cloud & DevOps</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Langchain-121D33?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADXSURBVHgBjZLBDcIwDEXtCrFBugEbMAIjsAEbsAHdoEwAG8AGlA0YgQ3aCaAv+bGOoAh+Uho3z45jkxhj4I9SShNjPCLvULeV2lrrDuEdnbJ6gOBDiCNyO9Cn3HMd+gI5nFHX8ZFzyDH3IsMdXkwo53dpwgxefEKoMLkH7JGvWB/sLsAX9A4KETemlCrs3jlZ7lz4lHLOa6WU1Ng7cNcSpltE3gZcw3fKKW00cCZPg7ZfA+YNmGpBuyzXgw3mDZpqwZrozwE9d4nvt0t+GdB3dwPxCGNmKvkHIwxm1kYk1EYAAAAASUVORK5CYII=" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-105000?style=for-the-badge&logo=DJANGO&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+### 🚀 Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Cypher](https://img.shields.io/badge/Cypher-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+### 📚 Libraries
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 
-- **[About me](#about-me)**
-  - [Professional Me](#professional-me)
-  - [Personal Me](#personal-me)
-- **[Projects](#projects)**
-  - [EPAL Project](#epal-project)
-  - [Meru AI](#meru-ai)
-  - [WildAI](#wildai)
-  - [AWS Scholarship](#aws-scholarship)
+# Featured Work History
+
+## Meru AI LLC
+Founder & Applied AI Full Stack Developer (Dec 2022 – Present)
+
+- 🌐 Developed full stack AI applications for various industries
+- 📈 Achieved 95% accuracy in Retrieval Augmented Generation (RAG) pipelines
+- 💰 Experience growing to 1000+ users and $2,000 MRR within first month
+
+## Developed Under Meru AI LLC 
+
+### Online E-Dating Platform | [Edaters.gg](https://edaters.gg/) 
+Applied AI Full Stack Developer (July 2024 – Present)
+
+- 🚀 Led design and technical decisions for platform revamp
+- 📊 Increased user base by 300% and reduced error rates by 60%
+- 🎮 Implemented gamified rewards system, boosting user engagement by 200%
+
+### GenAI for Enterprise | [Bloomchat.ai](https://www.bloomchat.ai)
+Applied AI Full Stack Developer (May 2023 – May 2024)
+
+- 🤖 Built GenAI Chatbot on enterprise data with third-party API integration on Emails, Phonecalls, Documents, Finances, and more.
+- 🔒 Implemented IAM principles for secure information management
+- 🎙️ Created audio transcription microservice with 95% accuracy
+
+### Finance AI
+Applied AI Full Stack Developer (Dec 2022 – May 2023)
+
+- 💼 Integrated financial data using Plaid, Neo4j, and FastAPI
+- ⚡ Optimized data processing, reducing time from 6 minutes to 30 seconds
+- 💰 AI Generated personalized budget plans, helping users save 5% monthly on their income.
+
+### AI Game Assets
+#### Acquired
+Full Stack Developer / Contractor (Oct 2022 – April 2023)
+
+- 🔄 Converted Jupyter Notebooks to production web app using React and Flask
+- 🤝 Collaborated with cross-functional teams for timely feature delivery
+- 📚 Led adoption of new tools and frameworks to improve team efficiency
+
+## Previous Experience
+
+- Machine Learning Research Assistant at CSU Fullerton (May 2022 – Aug 2022)
+- Coach and Data Analyst at Cloud9 (Aug 2021 – Aug 2022)
+- Machine Learning Research Assistant at CSU San Marcos (Aug 2020 – May 2021)
 
 
+## 🚀 Featured Projects
 
-# About me
+### Meru AI | [meru.gg](https://meru.gg/)
+AI coach for League of Legends players
 
-<!--Introduction to me and what I am about -->
-<p align="left">I am a first-generation Hispanic and the first college graduate in my family. My goal is to break barriers and pave the way for others. 
+<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/lol-logo-rendered-hi-res.png" alt="League of Legends logo" width="150" align="right">
 
-I want to democratize Artificial Intelligence(AI) and Machine Learning(ML) to help communities. By using AI/ML I can create programs that will improve the quality of life for a community and strengthen bonds between people. I am passionate about AI/ML because of its ability to scale and solve complex problems. Donations are greatly appreciated to the EPAL Project and Meru AI!</p> 
+- 🎮 Provides personalized, actionable feedback to improve player skills
+- 📊 Utilizes advanced ML models for comprehensive player analysis
+- 🗃️ Implements graph database for complex game relationship mapping
 
+**Tech Stack:** PyTorch, Keras, TensorFlow, Neo4j, SQL, Python
 
-<!--Release date 02/27/2023-->
-<!--![AWS Video Docuseries](insert video here)-->
-<h1 align="center">
-Click the photo below to watch Future Self – E1 Meet José “Pepe” Tapia | Amazon Web Services
-</h1>
+### EPAL Project
+AI/ML-powered recording system for sports analysis
 
+<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/AWS_IMG_raspberrypi.png" alt="Raspberry Pi setup" width="150" align="right">
 
-<p align="center"><a align="center" href="https://www.youtube.com/watch?v=nhda21qxl3A"><img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/AWS_PhotoCard.png" height="355" width="515"></a>
+- 📷 Live streams games using Raspberry Pi and camera module
+- 🏀 Focuses on basketball, with potential for other sports
+- 🤖 Leverages AWS for real-time processing and clip creation
+- 🧠 Implements advanced computer vision and object detection
 
+**Tech Stack:** YOLOv5, Pandas, NumPy, Matplotlib, AWS (Kinesis/EC2/S3), Raspberry Pi, Python/C++
 
-  
+### WildAI
+Data analysis tool for Wild Rift esports teams
 
- 
-<p> Amazon Web Services has given me this opportunity to tell my story and inspire others pursuing AI/ML by emphasizing the importance of learning and building. Whether you're in high school, college, or a self-starter learning on your own -- it is never too late to begin learning the power of AI/ML! </p>
-  
-
- 
-<!-- <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG-8197.JPG" align="right" height="290" width="383"> -->
-
-## Professional me
-<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG-8199.JPG" align="right" height="290" width="410"> 
-
-<p align="left">
-My passion is in helping others improve their quality of life and creating stronger bonds between people. I found that I can achieve this with the power of AI/ML. I first got started in AI/ML in the Fall of 2020 when I worked under an Assistant Professor to classify images of phytoplankton. This opened my eyes to the many strengths that this field has. My most recent project is an AI Coach for video games that provides actionable feedback for a player to improve their skills. By using AI/ML, I am able to tell stories through data and discover new insights into the gameplay of individuals. I have turned my AI Coach project into a company in which I am the CEO & AI/ML Lead. For any project that I am a part of, I take ownership and apply myself to the best of my ability. 
-</p>
-
- 🖥️ **AI/ML:** <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt=" Matplotlib Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy Machine Learning" width="73" height="23"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow Machine Learning" width="73" height="23">
-
-⌨️**Languages:**
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C coding language" width="48" height="23"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ coding language" width="48" height="23"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java coding language" width="48" height="23"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python coding language" width="48" height="23"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R coding language" width="48" height="23">
-
-💾**Databases:** <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j database coding language" width="73" height="23"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite database coding language" width="73" height="23">
- 
- 
- ## Personal me
- 
-<!-- <img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/IMG-8199.JPG" align="left" height="290" width="383"> -->
-<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/EscapeRoom_KhoaPepeRisa.jpg" align="left" height="301" width="401">
-
-<p align="left">
-  
-On my off time, I love playing competitive games with my friends and going to Disneyland with my girlfriend. When I am not spending time with people that are close to me, I love thinking of ways that I can help people. My love for helping people initially started when I coached for esports teams such as Cloud9 and Tribe Gaming. I have since then extended my coaching skills to coaching at the Escondido Police Athletic League for ages 6-18. I currently coach and tutor individuals while working on my projects. I believe my passions can help others pursue their passions, and I want to do anything I can to help better themselves and their quality of life.
- 
-Fun fact: I've completed over 50 Escape Rooms within Orange and Los Angeles counties 🔍🕵️. <br> My favorite is "The Basement" in northern LA!
-</p>
-
-
-💡 Soft Skills
-<img src="https://img.shields.io/badge/Hard_Worker-%2300599C.svg?style=for-the-badge" alt="Hard Worker soft skill" width="73" height="23"><img src="https://img.shields.io/badge/Problem_Solver-%23EE4C2C.svg?style=for-the-badge" alt="Problem Solver soft skill" width="73" height="23"><img src="https://img.shields.io/badge/Teamwork-%32197711.svg?style=for-the-badge" alt="Teamwork soft skill" width="73" height="23"><img src="https://img.shields.io/badge/Caring-%23E4405F.svg?style=for-the-badge" alt="Caring soft skill" width="73" height="23"><img src="https://img.shields.io/badge/Curious-%2300AFF0.svg?style=for-the-badge" alt="Curious soft skill" width="73" height="23"><img src="https://img.shields.io/badge/Team_Leader-%23FF0000.svg?style=for-the-badge" alt="Team Leader soft skill" width="73" height="23">
-
-
-# Projects
-
-
-<p> Mixing my passions together has led to some fun projects, including: </p>
-
----
-
-## EPAL Project
-
-### March 2022 - Present | Donations appreciated!
-
-Github: Private , in development
-<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/AWS_IMG_raspberrypi.png" alt="Raspberry Pi img" width="360" height="255" align="right">
-
-The EPAL Project is an AI/ML powered recording system for sports, specifically basketball. The inspiration for this project came from wanting to see my brother's basketball games, and realizing that these special moments would be valuable to have available for other families as well. Using a Raspberry Pi, camera module, and an internet connection, the system is able to live stream the game, leveraging Amazon Web Services, and process the stream using aI/ML to create clips, keep score, and more!
-
-<!-- Insert photo of Raspberry Pi image from my AWS Docuseries episode here -->
-
-🔧 **Tools used:** YOLOv5, Pandas, NumPy, Matplotlib; AWS: Kinesis/EC2/S3, Raspberry Pi, Camera Module, Python/C++
-
-🧠 **Concepts used:** Computer Vision, Object Detection, Transfer Learning on YOLOv5, End-to-End Pipeline development for Machine Learning, Data ETL Pipeline Development
-
----
-
-<!-- - <img src="https://img.icons8.com/emoji/256/man-bouncing-ball.png" alt="Man dribbling a basketball" width="50" height="50"> -->
-
-## Meru AI
-
-### October 2022 - Present | Donations appreciated!
-
-
-Github: Private , in development 
-
-<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/lol-logo-rendered-hi-res.png" alt="Leauge of Legends video game icon" width="504" height="308" align="right"> 
-
-Meru AI is initiated from my passions in gaming and coaching. Our pilot game, League of Legends, is a Multiplayer Online Battle Area (MOBA) that contains an immense amount of information that a user needs to absorb in order to understand the gameplay. This creates a steep learning curve, and can take the fun out of the game. In this project, I am using AI/ML to help players understand and improve their skills on a personal level by providing them with actionable feedback -- like a coach would do.
-
-🔧 **Tools used:** Python, PyTorch, Keras, TensorFlow, NumPy, Matplotlib, Pandas, Neo4j Graph Database, SQL
-
-🧠 **Concepts used:** Linear Regression, Multi-Class classification, Random Forests, CNN/RNN, GraphNN, Graph Database Relational Models, Data API Ingestion - ETL practices, Model Training/Testing/Evaluation
-
----
-
-## WildAI
-
-### September 2021 - June 2022
-
-Github: [Wild AI](https://github.com/PepeTapia/WildAI)
-
-<img src="https://github.com/PepeTapia/WildAI/blob/main/images/colorscale_img.png" alt="Wild Rift video stream example" width="383" height="217" align="right">
-
-
-WildAI is a tool created to help esports teams use fundamental data analysis in Wild Rift -- similar to the parent game League of Legends. Riot Games, the parent company for the aforementioned games, does not have a public API. Therefore, I created a Data Pipeline that extracts, transforms, and loads a Video Stream into a dataset. This enabled the potential for Data Science practices to be performed on the output datasets. The result was a number of datasets that helped the esports team I coached (Cloud9 Wild Rift) discover our strengths and weaknesses.
-
-<br>
-<br>
-<br>
-
-<p align="center">
-<img src="https://github.com/PepeTapia/WildAI/blob/main/images/wardDetection.gif">
-</p>
-
-<p align="center">
+<table>
+  <tr>
+    <td><img src="https://github.com/PepeTapia/WildAI/blob/main/images/colorscale_img.png" alt="Wild Rift video stream example" width="600"></td>
+    <td><img src="https://github.com/PepeTapia/WildAI/blob/main/images/wardDetection.gif" alt="Ward detection" width="600"></td>
+  </tr>
+</table>
 <img src="https://github.com/PepeTapia/WildAI/blob/main/images/processing_output.png">
-</p>
 
-🔧 **Tools used:** YOLOv5, OpenCV, NumPy, Matplotlib, Pandas, SQL
+- 📺 Developed a sophisticated data pipeline for video stream analysis
+- 📊 Enabled data-driven decision making for Cloud9 Wild Rift team
+- 🖼️ Implemented cutting-edge image processing and object detection techniques
 
-🧠 **Concepts used:** Image Processing methods, Dataset organization and validation, Database creation, Data pipelin automation, Quantitative analysis
-
----
-
-
-## AWS Scholarship 
-
-### Scholarship Recepient | July 2022 
-
-Read the full story here! 
-Github: [AWS Scholarship Program: Udacity AI Programming with Python Nanodegree](https://github.com/PepeTapia/UdacityAWS_Nanodegree)
-
-<img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/AWS_Scholarship_ChapterModules.png" alt="AWS DeepRacer Student League course modules" width="368" height="162" align="right">
+**Tech Stack:** YOLOv5, OpenCV, NumPy, Matplotlib, Pandas, SQL
 
 
-I applied for this scholarship at [awsaimlscholarship.com](http://awsaimlscholarship.com/). In order to be eligible, an applicant must complete the AWS DeepRacer Student League race and the provided AI/ML learning modules. This leads up to the applicant changing the code of a given template for training a "car" agent. The template is based on Reinforcement Learning and the goal is to complete a lap time under the 3:00 mark! 
+### AWS DeepRacer
+Reinforcement Learning for autonomous racing
 
-<br>
-<br>
+- 🏎️ Developed an AI model for the AWS DeepRacer Student League
+- 🥇 Achieved sub-3-minute lap times using advanced RL techniques
+- 🧠 Implemented and fine-tuned reward functions for optimal performance
+- 📷 First AWS Docuseries recipient for "Future Self" series.
 
-<img src="https://github.com/PepeTapia/PepeTapia/blob/main/images/udacity_course_topics.png" alt="AWS Udacity AI Scholarship Course modules" width="356" height="209" align="right">
-
-Once you meet the eligibility, you enter a pool of applicants that may be chosen for the Udacity "AI Programming with Python Nanodegree" course. This course covered the fundamentals within math, coding, and MLOps and tied it all together with an Image Classification system using transfer learning. You can look forward to learning about Linear Algebra, Calculus, Pandas, and NumPy for your math and coding fundamentals. From an AI/ML perspective the course does a great job at covering best data ETL practices as well as the full model training, evaluation, and inference. The course projects concluded with two ways of using the same Image Classifier: Command Line Interface and Jupyter Notebook.
+**Tech Stack:** Python, TensorFlow, AWS SageMaker, Reinforcement Learning
 
 
 
-<!-- <img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/DeepRacer_RewardFunction.png" alt="AWS DeepRacer Student League car agent reinforment learning" width="276" height="194"> -->
+## Let's Connect!
 
-<!-- <img src="https://github.com/PepeTapia/UdacityAWS_Nanodegree/blob/main/assets/inference_example.png" alt="Model Evaluation" width="186" height="279"> -->
+- [LinkedIn](https://linkedin.com/in/jose-pepe-tapia/)
+- [Personal Website](https://pepetapia.com)
+- [GitHub](https://github.com/PepeTapia)
 
-
-<!-- <img src="https://img.icons8.com/color/256/neural_connections.png" alt="Brain with an emphasis on neural connections" width="50" height="50"> -->
-
+Feel free to reach out for collaborations or just to chat about AI/ML and full stack development!
