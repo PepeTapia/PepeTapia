@@ -16,9 +16,9 @@
 
 ## 🚀 About Me
 
-I am a **Strategic AI Director** and **Full Stack Builder** who bridges the gap between complex data science and tangible revenue. I don't just build models; I build **operational engines** that scale businesses.
+I am a **Strategic AI Lead Engineer** and **Full Stack Builder** who bridges the gap between complex data science and tangible revenue. I don't just build models; I build **operational engines** that scale businesses.
 
-As a first-generation college graduate, I successfully pivoted from High-Performance Esports Analytics to Enterprise Legal Tech. My philosophy is simple: **Anti-Chatbot, Pro-Intelligence.** I believe in building AI systems that provide actionable dashboards and predictive insights rather than generic conversational interfaces.
+As a first-generation college graduate, I successfully pivoted from High-Performance Esports Analytics to Enterprise Tech within the Professional Service Industry. My philosophy is simple: **Anti-Chatbot, Pro-Intelligence.** I believe in building AI systems that provide actionable dashboards and predictive insights rather than generic conversational interfaces.
 
 ### ⚡ Current Focus
 *   **Scaling Legal Operations:** Currently driving a 300% lead volume increase (1.5k -> 5k/mo) for a major Personal Injury firm.
