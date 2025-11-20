@@ -1,6 +1,6 @@
 # José Antonio 'Pepe' Tapia
 
-### Lead AI & Process Optimization | Principal AI Architect
+### Lead AI & Process Optimization | AI Architect
 <a href="https://pepetapia.com">Portfolio</a> • <a href="https://www.linkedin.com/in/jose-pepe-tapia/">LinkedIn</a> • <a href="mailto:japepetapia@gmail.com">Email</a>
 
 <div align="center">
