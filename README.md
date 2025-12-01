@@ -1,6 +1,6 @@
 # José Antonio 'Pepe' Tapia
 
-### Lead AI & Process Optimization | AI Architect
+### Lead Engineer within AI & Process Optimization | Principal AI Architect
 <a href="https://pepetapia.com">Portfolio</a> • <a href="https://www.linkedin.com/in/jose-pepe-tapia/">LinkedIn</a> • <a href="mailto:japepetapia@gmail.com">Email</a>
 
 <div align="center">
@@ -14,69 +14,78 @@
 
 ---
 
-## 🚀 About Me
+## The Reality of AI in Production
 
-I am a **Strategic AI Lead Engineer** and **Full Stack Builder** who bridges the gap between complex data science and tangible revenue. I don't just build models; I build **operational engines** that scale businesses.
+I went from graduating in 2023 to being in the Executive Meeting rooms at a major law firm because of my diligence and perspective within AI. I focused on Business Value instead of hype and buzzwords. 
 
-As a first-generation college graduate, I successfully pivoted from High-Performance Esports Analytics to Enterprise Tech within the Professional Service Industry. My philosophy is simple: **Anti-Chatbot, Pro-Intelligence.** I believe in building AI systems that provide actionable dashboards and predictive insights rather than generic conversational interfaces.
+I audited companies that have burned months of runway building "chat with your data" wrappers that nobody uses. Employees don't want to chat. They want dashboards. They want answers.
 
-### ⚡ Current Focus
-*   **Scaling Legal Operations:** Currently driving a 300% lead volume increase (1.5k -> 5k/mo) for a major Personal Injury firm.
-*   **AI Auditing:** Helping companies pivot from stalled AI roadmaps to high-ROI, data-driven workflows.
-*   **Enterprise Data Governance:** Architecting single-source-of-truth data warehouses for 500+ user organizations.
+My approach is simple: **Fix the process, then apply the AI.**
+
+If your data is isolated in accounting, CRM, emails, and ticketing systems, an LLM won't fix that. You need a pipeline. I build engines that ingest messy real-world data and spit out actionable intelligence that protects margins and prints revenue.
+
+### What I actually do
+*   **Scale Operations:** I optimized a lead funnel, from end-to-end, that took us from 1,500 to 5,000 leads a month with a growing conversion rate of 7% to 12%
+*   **Protect Revenue:** I built a predictive churn system architecture that flags at-risk clients before they leave by combining many disparate data sources and performing multi-modal analysis on the client lifecycle. This cut our "Substitution of Attorney" losses by 60%.
+*   **Data Governance:** I moved 500+ users from chaotic local drives to a single-source-of-truth data warehouse.
 
 ---
 
-## 🛠️ The Modern Tech Stack
+## Tech Stack & Philosophy
 
-I operate as a "One-Man Army" capable of architecting, deploying, and scaling full-stack AI solutions.
+The tech stack is secondary. Use what fits the use case and the comfort of your team. I use Python and FastAPI because they work, but I'm not dogmatic about it.
 
-| **The Brain (GenAI & Data)** | **The Engine (Cloud & Ops)** | **The Tools (Full Stack)** |
+**Key Principle:** Modular design. Adding a new API source should take days, not weeks.
+
+| **The Brain (GenAI)** | **The Engine (Cloud)** | **The Tools (Full Stack)** |
 | :--- | :--- | :--- |
-| ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) <br> RAG Architectures <br> Agentic Workflows <br> Vector DBs (Pinecone/Weaviate) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) <br> GCP (Vertex AI) <br> Azure OpenAI <br> CI/CD Pipelines | ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) <br> React & Node.js <br> Python & SQL <br> Cursor / Git |
+| ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) <br> RAG Architecture <br> Agentic Workflows <br> Vector DBs | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) <br> GCP (Vertex AI) <br> Azure OpenAI <br> CI/CD Pipelines | ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) <br> React & Node.js <br> Python & SQL <br> Cursor / Git |
 
 ---
 
-## 💼 Strategic Initiatives & Case Studies
+## Strategic Initiatives
 
-### 🏛️ Confidential Personal Injury Firm (Director of AI)
+### Confidential Personal Injury Firm (Director of AI)
 *Proprietary Enterprise Transformation | 2025 - Present*
-> **The Impact:** Transformed a reactive law firm into a data-driven machine.
-- **300% Growth:** Architected infrastructure to scale leads from 1,500 to 5,000/month while doubling conversion (8% → 15%).
-- **Velocity:** Reduced average case lifecycle by **50%** (16mo → 8mo) via process mining and AI-native workflows.
-- **Retention:** Deployed predictive churn modeling (NLP on call logs) to reduce "Substitution of Attorney" losses by **60%**.
-- **Governance:** Migrated CCaaS (Connex → RingCentral) and centralized data governance for 500+ employees.
 
-### 🧬 Meru AI (Founder & Principal Architect)
+We were sitting on a goldmine of data, but our "Time on Desk" was 16 months. We were bleeding efficiency. I didn't just buy software; I engineered a flow that connected high-value callers to our best closers instantly.
+
+*   **The Result:** Lead volume went from 1,500 to 5,000/month. Conversion jumped from 8% to 15%.
+*   **The Speed:** Reduced pre-litigation lifecycle from 16 months to 8 months.
+*   **The Tech:** Python, SQL, RingCentral APIs, Custom CRM Connectors.
+
+### Meru AI (Founder)
 *Bespoke AI Consultancy | 2022 - Present*
-> **The Impact:** Helping startups and enterprises find the "real" ROI in AI.
-- **Audit & Pivot:** Specialized in rescuing stalled AI roadmaps, moving clients away from low-value chatbots to high-value business intelligence tools.
-- **Scale:** Launched consumer applications scaling to 1,000+ users and monetizing within 30 days.
+
+I started this to build products, but I realized the bigger need was guidance. I help clients stop fighting their own legacy infrastructure.
+
+*   **The Pivot:** Shifted from generic dev shop to strategic auditing.
+*   **The Win:** Helping clients move from "AI Toys" to "Operational Engines."
 
 ---
 
-## 💻 Featured Technical Projects
+## Featured Work
 
-### [BloomChat.ai](https://www.bloomchat.ai) | *Enterprise RAG Architecture*
-A generative AI platform that integrates Microsoft 365, Quickbooks, and CRM data into a unified intelligence layer.
+### [BloomChat.ai](https://www.bloomchat.ai) | *Enterprise Intelligence*
+Data silos kill efficiency. I built this to connect the dots between Microsoft 365, QuickBooks, and CRMs.
+*   **Reality Check:** It wasn't about the chatbot. It was about the 95% accuracy in document retrieval and audio transcription.
 *   **Stack:** OpenAI API, Azure, Python, Vector Search.
-*   **Key Win:** Achieved 95% accuracy in document retrieval and audio-to-text transcription for enterprise compliance.
 
-### [Edaters.gg](https://edaters.gg/) | *Consumer Scale App*
-A gamified dating platform for the gaming demographic.
+### [Edaters.gg](https://edaters.gg/) | *Consumer Scale*
+A gamified platform for the gaming demographic.
+*   **The Grind:** Launched MVP, scaled to 1,200 users in 3 weeks, and reduced build times by 40%.
 *   **Stack:** Next.js, AWS, Node.js.
-*   **Key Win:** Scaled to 1,200 users in 3 weeks; reduced build times by 40% via optimized CI/CD.
 
-### [WildAI & Cloud9 Analytics](https://github.com/PepeTapia/WildAI) | *Computer Vision Pipeline*
-Real-time object detection system for professional esports analysis.
+### [WildAI](https://github.com/PepeTapia/WildAI) | *Computer Vision Pipeline*
+Real-time object detection for professional esports.
+*   **The Build:** A proprietary video-to-data pipeline used by professional coaches.
 *   **Stack:** YOLOv5, OpenCV, AWS Kinesis, Raspberry Pi.
-*   **Key Win:** Built a proprietary video-to-data pipeline used by professional coaches to gain competitive advantages in *League of Legends: Wild Rift*.
 
 ---
 
 <div align="center">
   <h3>Let's Connect</h3>
-  <p>I am always open to discussing high-impact AI architecture and operational strategy.</p>
+  <p>I view process over performance and demonstrated skill over resume padding. If you want to talk about real AI implementation or just argue about why your vector DB is better than mine, reach out.</p>
   <a href="https://linkedin.com/in/jose-pepe-tapia/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
