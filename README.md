@@ -25,9 +25,10 @@ My approach is simple: **Fix the process, then apply the AI.**
 If your data is isolated in accounting, CRM, emails, and ticketing systems, an LLM won't fix that. You need a pipeline. I build engines that ingest messy real-world data and spit out actionable intelligence that protects margins and prints revenue.
 
 ### What I actually do
-*   **Scale Operations:** I optimized a lead funnel, from end-to-end, that took us from 1,500 to 5,000 leads a month with a growing conversion rate of 7% to 12%
-*   **Protect Revenue:** I built a predictive churn system architecture that flags at-risk clients before they leave by combining many disparate data sources and performing multi-modal analysis on the client lifecycle. This cut our "Substitution of Attorney" losses by 60%.
-*   **Data Governance:** I moved 500+ users from chaotic local drives to a single-source-of-truth data warehouse.
+*   **Scale Operations:** I optimized a lead funnel, from end-to-end, that took us from 1,500 to 5,000 leads a month with a growing conversion rate of 7% to 18%
+*   **Protect Revenue:** I built a predictive churn system architecture that flags at-risk clients before they leave by combining many disparate data sources and performing multi-modal analysis on the client lifecycle. This cut our churn, ("Substitution of Attorney"), losses by 95%.
+*   **Data Governance:** I moved 500+ employees from chaotic local drives to a single-source-of-truth data warehouse
+*   **Adherence & Adoption:** I led cutover and migration plans for 500+ employees across enterprise systems. CcaaS, CRM, and local to Cloud migrations that resulted in call answer rates going from 40%->98%, saved 250k human hours per year, and provided accessibility to our data with proper compliance in place.
 
 ---
 
